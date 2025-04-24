@@ -2,9 +2,9 @@
 <p align="center">We weave beautiful and functional web experiences with clean code and creativity.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Creativity-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/HTML-CSS-JS-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Templates-Ready-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code%20Crafting-Creativity-blueviolet?style=for-the-badge" alt="Code Crafting" />
+  <img src="https://img.shields.io/badge/Tech-HTML%20%7C%20CSS%20%7C%20JS-orange?style=for-the-badge" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/Templates-Ready-brightgreen?style=for-the-badge" alt="Templates Ready" />
 </p>
 
 ---
